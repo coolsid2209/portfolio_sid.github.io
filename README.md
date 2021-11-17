@@ -1,1 +1,2 @@
-# portfolio_sid.github.io
+# portfolio
+This repository houses my portfolio in a website format.
